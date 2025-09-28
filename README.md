@@ -1,4 +1,4 @@
-# Blockchain-Badge-System_NFTs-for-Academic-milestones
+
 # Blockchain Badge System – NFTs for Academic Milestones
 
 ## Project Description
