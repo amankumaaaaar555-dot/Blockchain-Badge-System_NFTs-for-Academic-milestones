@@ -63,5 +63,5 @@ We envision a future where academic credentials are universally accessible, inst
 
 ## Contract Details
 0x32f6a7db6559d15c9ca1cba4090a2f652f7829751e81e4dd936c94de4a764d5a
+![alt text](image-1.png)
 
-<img width="1110" height="665" alt="image" src="https://github.com/user-attachments/assets/40c1e81e-5956-45df-9bc5-4987ab1b2ca1" />
